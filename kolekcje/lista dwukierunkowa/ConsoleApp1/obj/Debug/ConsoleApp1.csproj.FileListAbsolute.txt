@@ -1,0 +1,49 @@
+C:\Users\Student\Documents\lab03\obiekt\lab04\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Student\Documents\lab03\obiekt\lab04\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Student\Documents\lab03\obiekt\lab04\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Student\Documents\lab03\obiekt\lab04\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Student\Documents\lab03\obiekt\lab04\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\lab03\obiekt\lab04\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Student\Documents\lab03\obiekt\lab04\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Student\Documents\lab03\obiekt\lab04\zad2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Student\Documents\lab03\obiekt\lab04\zad2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Student\Documents\lab03\obiekt\lab04\zad2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Student\Documents\lab03\obiekt\lab04\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Student\Documents\lab03\obiekt\lab04\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\lab03\obiekt\lab04\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Student\Documents\lab03\obiekt\lab04\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Dawid\Desktop\temp\zad2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Dawid\Desktop\temp\zad2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Dawid\Desktop\temp\zad2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Dawid\Desktop\temp\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\temp\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\temp\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Dawid\Desktop\temp\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Dawid-laptop\Desktop\temp\zad2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Dawid-laptop\Desktop\temp\zad2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Dawid-laptop\Desktop\temp\zad2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Dawid-laptop\Desktop\temp\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Dawid-laptop\Desktop\temp\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dawid-laptop\Desktop\temp\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Dawid-laptop\Desktop\temp\zad2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Dawid-laptop\Desktop\temp\zaddom2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Dawid-laptop\Desktop\temp\zaddom2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Dawid-laptop\Desktop\temp\zaddom2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Dawid-laptop\Desktop\temp\zaddom2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Dawid-laptop\Desktop\temp\zaddom2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dawid-laptop\Desktop\temp\zaddom2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Dawid-laptop\Desktop\temp\zaddom2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Dawid\Desktop\temp\zaddom2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Dawid\Desktop\temp\zaddom2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Dawid\Desktop\temp\zaddom2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Dawid\Desktop\temp\zaddom2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\temp\zaddom2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\temp\zaddom2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Dawid\Desktop\temp\zaddom2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Dawid\Documents\GIT\C#\kolekcje\lista dwukierunkowa\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Dawid\Documents\GIT\C#\kolekcje\lista dwukierunkowa\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Dawid\Documents\GIT\C#\kolekcje\lista dwukierunkowa\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Dawid\Documents\GIT\C#\kolekcje\lista dwukierunkowa\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Dawid\Documents\GIT\C#\kolekcje\lista dwukierunkowa\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\GIT\C#\kolekcje\lista dwukierunkowa\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Dawid\Documents\GIT\C#\kolekcje\lista dwukierunkowa\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

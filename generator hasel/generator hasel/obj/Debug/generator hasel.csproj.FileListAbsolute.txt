@@ -1,0 +1,18 @@
+C:\Users\Dawid\Desktop\generator hasel\generator hasel\bin\Debug\generator hasel.exe
+C:\Users\Dawid\Desktop\generator hasel\generator hasel\bin\Debug\generator hasel.pdb
+C:\Users\Dawid\Desktop\generator hasel\generator hasel\obj\Debug\generator hasel.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\generator hasel\generator hasel\obj\Debug\generator_hasel.Properties.Resources.resources
+C:\Users\Dawid\Desktop\generator hasel\generator hasel\obj\Debug\generator hasel.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\generator hasel\generator hasel\obj\Debug\generator hasel.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\generator hasel\generator hasel\obj\Debug\generator hasel.exe
+C:\Users\Dawid\Desktop\generator hasel\generator hasel\obj\Debug\generator hasel.pdb
+C:\Users\Dawid\Desktop\generator hasel\generator hasel\obj\Debug\generator_hasel.Form1.resources
+C:\Users\Dawid\Dysk Google\programowanie\C#\generator hasel\generator hasel\bin\Debug\generator hasel.exe
+C:\Users\Dawid\Dysk Google\programowanie\C#\generator hasel\generator hasel\bin\Debug\generator hasel.pdb
+C:\Users\Dawid\Dysk Google\programowanie\C#\generator hasel\generator hasel\obj\Debug\generator hasel.csprojAssemblyReference.cache
+C:\Users\Dawid\Dysk Google\programowanie\C#\generator hasel\generator hasel\obj\Debug\generator_hasel.Form1.resources
+C:\Users\Dawid\Dysk Google\programowanie\C#\generator hasel\generator hasel\obj\Debug\generator_hasel.Properties.Resources.resources
+C:\Users\Dawid\Dysk Google\programowanie\C#\generator hasel\generator hasel\obj\Debug\generator hasel.csproj.GenerateResource.cache
+C:\Users\Dawid\Dysk Google\programowanie\C#\generator hasel\generator hasel\obj\Debug\generator hasel.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Dysk Google\programowanie\C#\generator hasel\generator hasel\obj\Debug\generator hasel.exe
+C:\Users\Dawid\Dysk Google\programowanie\C#\generator hasel\generator hasel\obj\Debug\generator hasel.pdb

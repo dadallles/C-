@@ -1,0 +1,30 @@
+C:\Users\Student\Documents\lab03\obiekt\lab09\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Student\Documents\lab03\obiekt\lab09\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Documents\lab03\obiekt\lab09\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Documents\lab03\obiekt\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Student\Documents\lab03\obiekt\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Student\Documents\lab03\obiekt\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Student\Documents\lab03\obiekt\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Student\Documents\lab03\obiekt\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\lab03\obiekt\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Documents\lab03\obiekt\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dawid\Desktop\temp\lab09\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dawid\Desktop\temp\lab09\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dawid\Desktop\temp\lab09\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dawid\Desktop\temp\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\temp\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dawid\Desktop\temp\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dawid\Desktop\temp\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\temp\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\temp\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dawid\Desktop\temp\lab09\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dawid\Documents\GIT\C#\gra O i X\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dawid\Documents\GIT\C#\gra O i X\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dawid\Documents\GIT\C#\gra O i X\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dawid\Documents\GIT\C#\gra O i X\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Dawid\Documents\GIT\C#\gra O i X\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dawid\Documents\GIT\C#\gra O i X\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dawid\Documents\GIT\C#\gra O i X\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dawid\Documents\GIT\C#\gra O i X\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\GIT\C#\gra O i X\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dawid\Documents\GIT\C#\gra O i X\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
